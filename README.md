@@ -4,7 +4,7 @@
 
 Supercharge your development experience with Claude Code's new agent functionality! This repository contains high-quality, tested Claude Code agents created by the developer community for maximum productivity and code quality.
 
-## 🚀 What Are Claude Code Agents?
+## What Are Claude Code Agents?
 
 Claude Code agents are specialized AI assistants that excel in specific domains (frontend, backend, DevOps, etc.). Each agent brings deep expertise and focused knowledge to help you:
 
@@ -161,33 +161,3 @@ Introduction and overview...
 ## Example Interactions
 - Sample conversations and use cases
 ```
-
-## 🏆 Community
-
-- **GitHub Discussions**: Share experiences and ask questions
-- **Issues**: Report bugs and request features
-- **Pull Requests**: Contribute improvements and new agents
-
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## 🙏 Acknowledgments
-
-Thanks to all contributors who help make this collection valuable for the developer community:
-
-<!-- CONTRIBUTORS-START -->
-- [Burak Sayılar](https://github.com/bcemsayilar) - Project founder and maintainer
-<!-- CONTRIBUTORS-END -->
-
-Special thanks to the Claude Code team at Anthropic for creating this amazing development tool.
-
----
-
-<div align="center">
-
-**[⭐ Star this repository if you find it useful!](https://github.com/bcemsayilar/awsome-claudecode-agents)**
-
-Made with ❤️ by the Developer Community
-
-</div>
